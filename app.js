@@ -841,7 +841,7 @@ function renderJobs() {
           ${job.salary_range}
         </div>
       </div>
-      <a href="https://djsisaca.tech"><button class="btn btn--primary">Apply Now</button></a>
+      <a href="https://djsceisaca.tech"><button class="btn btn--primary">Apply Now</button></a>
     `;
     jobsContainer.appendChild(jobCard);
   });
